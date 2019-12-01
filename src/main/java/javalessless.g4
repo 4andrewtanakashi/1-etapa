@@ -26,7 +26,6 @@ STA: 'static';
 FAL: 'false';
 TRU: 'true';
 
-
 // Casos de Erro:
 Error1: Numl(Var);
 Error2: 'abtract';
